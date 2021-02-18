@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ground-beef-mc:ground_beef"
+    },
+    {
+      "item": "ground-beef-mc:ground_beef"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beef",
+    "count": 1
+  }
+}

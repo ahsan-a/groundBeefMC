@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ground-beef-mc:ground_beef_ore"
+        }
+      ]
+    }
+  ]
+}

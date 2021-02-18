@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ground-beef-mc:ground_beef_ore"
+  },
+  "result": "ground-beef-mc:ground_beef",
+  "experience": 0.3,
+  "cookingtime": 200
+}
